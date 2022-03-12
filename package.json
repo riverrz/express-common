@@ -15,7 +15,7 @@
     "build": "npm run clean && tsc",
     "pub": "git add . && git commit -m \" Updates\" && npm version patch && npm run build && npm publish"
   },
-  "keywords": [],
+  "keywords": ["expressjs", "helpers"],
   "author": "Shivam Kumar <shivam123425@gmail.com>",
   "license": "ISC",
   "devDependencies": {
