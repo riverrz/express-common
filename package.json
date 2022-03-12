@@ -1,6 +1,6 @@
 {
-  "name": "@skgittix/common",
-  "version": "1.0.11",
+  "name": "@shivam123425/express-common",
+  "version": "0.0.0",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
