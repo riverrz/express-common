@@ -1,6 +1,6 @@
 {
   "name": "@shivam123425/express-common",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -15,7 +15,10 @@
     "build": "npm run clean && tsc",
     "pub": "git add . && git commit -m \" Updates\" && npm version patch && npm run build && npm publish"
   },
-  "keywords": ["expressjs", "helpers"],
+  "keywords": [
+    "expressjs",
+    "helpers"
+  ],
   "author": "Shivam Kumar <shivam123425@gmail.com>",
   "license": "ISC",
   "devDependencies": {
